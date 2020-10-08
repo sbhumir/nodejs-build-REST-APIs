@@ -56,8 +56,7 @@ Go to Postman app and test these REST APIs
    //ex: Body: {"name": "Chicken Wings"} 
    // returns next added dish to array
    
-5) PUT: http://localhost:<PORT_NUMBER>/api/dishes/4
-   
+5) PUT: http://localhost:<PORT_NUMBER>/api/dishes/4   
    Body: {"name": <Any_dish_name>}   
    //ex: Body:{"name": "bread sticks"} 
    //returns updated no.4 dish
