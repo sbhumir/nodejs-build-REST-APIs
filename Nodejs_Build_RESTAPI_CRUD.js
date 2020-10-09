@@ -1,5 +1,4 @@
-//watch https://www.youtube.com/watch?v=pKd0Rpw7O48
-//REST API CRUD operations on Indian Memu
+//Build REST APIs using nodejs Express
 
 const express = require('express'); //express framework
 const Joi = require('joi'); //data validation for js. Returns a Class from this module
